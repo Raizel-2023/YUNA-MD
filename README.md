@@ -1,4 +1,4 @@
-> #### 🚀 Versión actual: 1.3.7
+> #### 🚀 الإصدار الحالي : 1.3.7
 
 <a href="http://wa.me/393271166550" target="blank"><img src="https://img.shields.io/badge/رقم_مالك_البوت-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  <a href="http://wa.me/213674234020" target="blank"><img src="https://img.shields.io/badge/رقم_مالك_البوت-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
