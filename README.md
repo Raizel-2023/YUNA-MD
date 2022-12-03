@@ -1,6 +1,8 @@
 > #### 🚀 Versión actual: 1.3.7
 
-<a href="http://wa.me/393271166550" target="blank"><img src="https://img.shields.io/badge/رقم_مالك_البوت-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />![e55289088045762c6149ff637b6ff4f2](https://user-images.githubusercontent.com/82735720/204062085-d43fba05-7366-4373-b0f2-ebf47a87fd84.jpg)
+<a href="http://wa.me/393271166550" target="blank"><img src="https://img.shields.io/badge/رقم_مالك_البوت-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <a href="http://wa.me/213674234020" target="blank"><img src="https://img.shields.io/badge/رقم_مالك_البوت-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ ![e55289088045762c6149ff637b6ff4f2](https://user-images.githubusercontent.com/82735720/204062085-d43fba05-7366-4373-b0f2-ebf47a87fd84.jpg)
 
 <p align="higt">   
 
@@ -29,7 +31,7 @@
 
 <a href="https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw" target="blank"><img src="https://img.shields.io/badge/%D9%82%D8%B1%D9%88%D8%A8-YUNA--MD-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://chat.whatsapp.com/IxeB9yBYrNp85CLmKykmMM" target="blank"><img src="https://img.shields.io/badge/2️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/IxeB9yBYrNp85CLmKykmMM" target="blank"><img src="https://img.shields.io/badge/%D9%82%D8%B1%D9%88%D8%A8-YUNA--MD-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </a> 
 
