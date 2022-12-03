@@ -22,7 +22,7 @@ global.prems = [' 393271166550 '],
 //  en = انجليزي         pt = برتغال 
 //  ar = عرب  
 
-global.lenguajeGB = ar  //LINGUAGGIO YUNA-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = ar  //لغه YUNA-MD, مثال: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -62,7 +62,7 @@ global.APIs = { // API Prefix.
 },
   
 global.APIKeys = { // APIKey Here
-  //⊱ ━━━━━.⋅ 'https://website': 'apikey' ⋅.━━━━ ⊰
+  //⊱ ━━━━━.⋅ 'https://website': 'مفتاح الايبي' ⋅.━━━━ ⊰
   'https://ariarestapii.herokuapp.com': 'aria',
   'https://api-alc.herokuapp.com': 'ConfuMods',
   'https://api.reysekha.xyz': 'apirey',
@@ -95,68 +95,68 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'YUNA-MD 🐻'
+global.author = 'YUNA BOT'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
-//⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
+//⊱ ━━━━━.⋅ الإصدار | الرقم | حسابات ⋅.━━━━ ⊰
 
 global.vs = '1.3.7'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'YUNA-MD'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://youtube.com/'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.instagram.com/a_e_b_2003'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://github.com/ahmed1p7'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/Bi656UOF5OEHznM0jxk9OB'
-global.nnagrupo = nna //UPDATE GATABOT
-global.nna2 = 'Bi656UOF5OEHznM0jxk9OB'
+global.nna = 'https://chat.whatsapp.com/IxeB9yBYrNp85CLmKykmMM'
+global.nnagrupo = nna //UPDATE YUNA
+global.nna2 = 'IxeB9yBYrNp85CLmKykmMM'
 
-global.nn = 'https://chat.whatsapp.com/BszaA3NFekyH7nhm7ZLnu6'
+global.nn = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/HJbk835UmOM3Aelm0Sqn3o'
+global.nnn = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/BV4X36YQa5A0wwgZAShW8D'
+global.nnnt = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/JWxO7mYh8AdCa9BtRXqERT'
+global.nnntt = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/IcvAZ26AzhpF72mC7sN1UA'
+global.nnnttt = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
 global.nnntttgrupo = nnnttt //Grupo 5
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://paypal.me/yunbot'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/393271166550' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
-//⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
+//⊱ ━━━━━━━━━━━━━.⋅ بيانات ⋅.━━━━━━━━━━━━━━ ⊰
 
-global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
+global.rg = '╰⊱✅⊱ *نتيجة* ⊱✅⊱╮\n\n'
 global.resultado = rg
 
-global.ag = '╰⊱⚠️⊱ *𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 | 𝙒𝘼𝙍𝙉𝙄𝙉𝙂* ⊱⚠️⊱╮\n\n'
+global.ag = '╰⊱⚠️⊱ *تحذير* ⊱⚠️⊱╮\n\n'
 global.advertencia = ag
 
-global.iig = '╰⊱❕⊱ *𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊́𝙉 | 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉* ⊱⊱╮\n\n'
+global.iig = '╰⊱❕⊱ *معلومات* ⊱⊱╮\n\n'
 global.informacion = iig
 
-global.fg = '╰⊱❌⊱ *𝙁𝘼𝙇𝙇𝙊́ | 𝙀𝙍𝙍𝙊𝙍* ⊱❌⊱╮\n\n'
+global.fg = '╰⊱❌⊱ *خطاء* ⊱❌⊱╮\n\n'
 global.fallo = fg
 
 global.mg = '╰⊱❗️⊱ *𝙇𝙊 𝙐𝙎𝙊́ 𝙈𝘼𝙇 | 𝙐𝙎𝙀𝘿 𝙄𝙏 𝙒𝙍𝙊𝙉𝙂* ⊱❗️⊱╮\n\n'
