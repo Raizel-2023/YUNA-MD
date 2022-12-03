@@ -138,7 +138,6 @@ npm start
 [![Abiguelreyes75](https://github.com/Abiguelreyes75.png?size=100)](https://github.com/Abiguelreyes75)
 
 [![DIEGO-OFC](https://github.com/DIEGO-OFC.png?size=100)](https://github.com/DIEGO-OFC)
-
 [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21)
 
  
