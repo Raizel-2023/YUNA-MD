@@ -27,7 +27,7 @@
 
 ### ❇️ المجموعات الرسمية 
 
-<a href="https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw" target="blank"><img src="https://img.shields.io/badge/1️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw" target="blank"><img src="https://img.shields.io/badge/%D9%82%D8%B1%D9%88%D8%A8-YUNA--MD-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="https://chat.whatsapp.com/IxeB9yBYrNp85CLmKykmMM" target="blank"><img src="https://img.shields.io/badge/2️⃣_COMUNIDAD_GATADOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
