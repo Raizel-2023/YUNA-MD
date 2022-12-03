@@ -16,11 +16,10 @@ global.mods = [' 393271166550']
 global.prems = [' 393271166550 '], 
   
   
-//⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga GataBot-MD
-//Add the language you want GataBot-MD to have
-//  es = Español         id = Bahasa Indonesia
-//  en = English         pt = Português 
+//⊱ ━━━━━.⋅ لغه ⋅.━━━━ ⊰ 
+//أضف اللغة التي تريد أن يمتلكها بوت
+//  es = اسباني         id = الإندونيسية 
+//  en = انجليزي         pt = برتغال 
 //  ar = عرب  
 
 global.lenguajeGB = ar  //LINGUAGGIO YUNA-MD, Ejemplo: es | en | pt...
