@@ -121,7 +121,7 @@ npm start
 
 ### 🌐 العربية
 
-- [x] مثل <details><summary>اللغات</summary><img src="https://imgur.com/a/4MrmYub.jpeg"></details>
+- [x] مثل <details><summary>اللغات</summary><img src="https://i.imgur.com/yAgRhW5.png"></details>
 
 ----
 
