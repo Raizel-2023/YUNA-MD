@@ -7,7 +7,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  [' 393271166550 ', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
+  [' 393271166550 ', 'YUNA-MD 💖', true],
   [' 393271166550 '] 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -103,7 +103,7 @@ global.author = 'YUNA BOT'
 
 //⊱ ━━━━━.⋅ الإصدار | الرقم | حسابات ⋅.━━━━ ⊰
 
-global.vs = '1.3.7'
+global.vs = '1.4.0'
 global.version = vs
 
 global.gt = 'YUNA-MD'
