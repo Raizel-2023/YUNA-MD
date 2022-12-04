@@ -131,17 +131,3 @@ npm start
 
 [![ahmed1p7](https://github.com/ahmed1p7.png?size=100)](https://github.com/ahmed1p7) 
 
-### 🌟 المطورين 
-
-[![Abiguelreyes75](https://github.com/Abiguelreyes75.png?size=100)](https://github.com/Abiguelreyes75)
-[![Abiguelreyes75](https://github.com/Abiguelreyes75.png?size=100)](https://github.com/Abiguelreyes75)
-[![DIEGO-OFC](https://github.com/DIEGO-OFC.png?size=100)](https://github.com/DIEGO-OFC)
-[![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21)
-
- 
-
-### 🌟 AGRADECIMIENTOS
-
- 
-
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
