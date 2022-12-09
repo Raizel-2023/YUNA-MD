@@ -79,7 +79,7 @@ let menuA = `${lenguajeGB['smsConfi2']()} *${username}*
 ╭┄〔 *${wm}* 〕┄⊱
 ┊დ *${week}, ${date}*
 ┊დ *${lenguajeGB['smsBotonM4']()} » ${Object.keys(global.db.data.users).length}* 
-┊
+┊${limit}
 ┊დ *${lenguajeGB['smsBotonM5']()} »* ${role}
 ┊დ *${lenguajeGB['smsBotonM6']()} » ${level} || ${user.exp - min}/${xp}*
 ┊დ *${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
