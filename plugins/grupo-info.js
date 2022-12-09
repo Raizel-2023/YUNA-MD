@@ -16,7 +16,7 @@ let text =
 ・ ${groupMetadata.desc?.toString() || lenguajeGB['smsGI5']()}
 
 ⇢ ${lenguajeGB['smsGI6']()}
-・ ${participants.length} ${lenguajeGB['smsGI7']()}
+・ ${participants.length} ${lenguajeGB['']()}
 
 ⇢ ${lenguajeGB['smsGI8']()}
 ・ @${owner.split('@')[0]}

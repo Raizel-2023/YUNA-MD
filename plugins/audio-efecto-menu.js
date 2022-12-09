@@ -69,16 +69,9 @@ let fsizedoc = '1'.repeat(10)
 let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardingScore: fsizedoc, externalAdReply: { showAdAttribution: true, title: wm, body: '👋 ' + username, mediaUrl: ig, description: 'Hola', previewType: 'PHOTO', thumbnail: await(await fetch(gataMenu.getRandom())).buffer(), sourceUrl: redesMenu.getRandom() }}}
 
 let menuA = `🎧 ${lenguajeGB['smsConfi2']()} *${username}*`.trim()
-let menuB = `╭┄〔 *${wm}* 〕┄⊱
-┊დ *${week}, ${date}*
-┊დ *${lenguajeGB['smsBotonM4']()} » ${Object.keys(global.db.data.users).length}* 
-┊
-┊დ *${lenguajeGB['smsBotonM5']()} »* ${role}
-┊დ *${lenguajeGB['smsBotonM6']()} » ${level}*
-┊დ *${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
-╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱
-
-⠇ ${lenguajeGB['smsTex2']()} 🧰
+let menuB = `〔 *${wm}* 〕
+┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄
+ ${lenguajeGB['smsTex2']()} 🧰
 ∘ _${usedPrefix}bass_
 ∘ _${usedPrefix}blown_
 ∘ _${usedPrefix}deep_

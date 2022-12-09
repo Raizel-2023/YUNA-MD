@@ -73,20 +73,19 @@ let menuA = `📍 ${lenguajeGB['smsConfi2']()} *${username}*`.trim()
 let menuB = `╭┄〔 *${wm}* 〕┄⊱
 ┊დ *${week}, ${date}*
 ┊დ *${lenguajeGB['smsBotonM4']()} » ${Object.keys(global.db.data.users).length}* 
-┊
 ┊დ *${lenguajeGB['smsBotonM5']()} »* ${role}
 ┊დ *${lenguajeGB['smsBotonM6']()} » ${level}*
 ┊დ *${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
 ╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱
 
 ⠇ ${lenguajeGB['smsTex8']()} 🛰️
-∘ _${usedPrefix}toimg | img | jpg *sticker*_
-∘ _${usedPrefix}tomp3 | mp3 *video o nota de voz*_
-∘ _${usedPrefix}tovn | vn *video o audio*_
-∘ _${usedPrefix}tovideo *audio*_
-∘ _${usedPrefix}tourl *video, imagen*_
-∘ _${usedPrefix}toenlace  *video, imagen o audio*_
-∘ _${usedPrefix}tts es *texto*_
+∘ _${usedPrefix}toimg | صور | *ملصق*_
+∘ _${usedPrefix}tomp3 | mp3 *فيديو الملاحظة الصوتية*_
+∘ _${usedPrefix}tovn | vn *فيديو او صوت*_
+∘ _${usedPrefix}tovideo *صوت*_
+∘ _${usedPrefix}tourl *فيديو, صورة*_
+∘ _${usedPrefix}toenlace  *فيديو أو صورة أو صوت*_
+∘ _${usedPrefix}tts es *نص*_
 `.trim()
 await conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 

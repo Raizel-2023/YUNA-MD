@@ -3,7 +3,7 @@ let setting = global.db.data.settings[this.user.jid]
 if (new Date() * 1 - setting.status > 1000) {
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime);
-let bio = `😸 ɢᴀᴛᴀʙᴏᴛ-ᴍᴅ  ┃ 🤖 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime} `
+let bio = `┃ 🤖 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime} `
 await this.updateProfileStatus(bio).catch(_ => _)
 setting.status = new Date() * 1
 }}

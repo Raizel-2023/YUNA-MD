@@ -4,7 +4,7 @@ user.afk = + new Date
 user.afkReason = text
 m.reply(`${lenguajeGB['smsAfkM1A']()} *${conn.getName(m.sender)}* ${lenguajeGB['smsAfkM1B']()}${text ? ': ' + text : ''}
 `)}
-handler.help = ['afk [alasan]']
+handler.help = ['افك [السبب]']
 handler.tags = ['main']
-handler.command = /^afk$/i
+handler.command = /^افك$/i
 export default handler
