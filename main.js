@@ -1,4 +1,4 @@
-process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0'; //SI QUIERES TEXTO SIMPLIFICADO EN LA CONSOLA USA ESTE CÓDIGO  
+process.env ['NODE_TLS_REJECT_UNAUTHORIZED'] = '0'; //SI QUIERES TEXTO SIMPLIFICADO EN LA CONSOLA USA ESTE CÓDIGO  
 import './config.js';
 import { createRequire } from "module"; 
 import path, { join } from 'path'
@@ -15,7 +15,6 @@ import syntaxerror from 'syntax-error';
 import { tmpdir } from 'os';
 import { format } from 'util';
 import P from 'pino';
-//import pino from 'pino';
 import { makeWASocket, protoType, serialize } from './lib/simple.js';
 import { Low, JSONFile } from 'lowdb';
 import { mongoDB, mongoDBV2 } from './lib/mongoDB.js';
@@ -66,14 +65,14 @@ global.db.chain = chain(global.db.data)
 }
 loadDatabase()
 
-global.authFile = `YunaBotSession`
+global.authFile = `YUNASession`
 const { state, saveState, saveCreds } = await useMultiFileAuthState(global.authFile)
 
 const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
 logger: P({ level: 'silent'}),
-browser: ['YunaBot-MD','Edge','1.0.0']
+browser: ['YUNA-MD','Edge','1.0.0']
 }
 
 global.conn = makeWASocket(connectionOptions)
@@ -96,27 +95,8 @@ const stats = statSync(file)
 if (stats.isFile() && (Date.now() - stats.mtimeMs >= 1000 * 60 * 3)) return unlinkSync(file) // 3 minutes
 return false
 })}
-    
-/*if (!opts['test']) {
-if (global.db) setInterval(async () => {
-if (global.db.data) await global.db.write()
-if (opts['autocleartmp'] && (global.support || {}).find) (tmp = [os.tmpdir(), 'tmp', "YunaBot"], tmp.forEach(filename => cp.spawn('find', [filename, '-amin', '3', '-type', 'f', '-delete'])))
-}, 30 * 1000)}
 
-if (opts['server']) (await import('./server.js')).default(global.conn, PORT)
 
-function clearTmp() {
-const tmp = [tmpdir(), join(__dirname, './tmp')]
-const filename = []
-tmp.forEach(dirname => readdirSync(dirname).forEach(file => filename.push(join(dirname, file))))
-readdirSync("./YunJadiBot").forEach(file => {
-    console.log(file)
-    rmSync("./YunJadiBot/" + file, { recursive: true, force: true })})
-return filename.map(file => {
-const stats = statSync(file)
-if (stats.isFile() && (Date.now() - stats.mtimeMs >= 1000 * 60 * 3)) return unlinkSync(file) // 3 minutes
-return false
-})}*/
 
 async function connectionUpdate(update) {
 const { connection, lastDisconnect, isNewLogin } = update
@@ -127,13 +107,9 @@ console.log(await global.reloadHandler(true).catch(console.error))
 global.timestamp.connect = new Date
 }
 if (global.db.data == null) loadDatabase()
-if (update.qr != 0 && update.qr != undefined) {
-console.log(chalk.yellow(lenguajeGB['smsCodigoQR']()))}  
 if (connection == 'open') {
-console.log(chalk.yellow(lenguajeGB['smsConexion']()))
-await conn.groupAcceptInvite(global.nna2)}
-if (connection == 'close') {
-console.log(chalk.yellow(lenguajeGB['smsConexionOFF']()))}}
+console.log(chalk.yellow(lenguajeGB['smsConexion']()))}
+}
 
 process.on('uncaughtException', console.error)
 
@@ -256,8 +232,7 @@ let s = global.support = { ffmpeg, ffprobe, ffmpegWebp, convert, magick, gm, fin
 Object.freeze(global.support)
 }
 setInterval(async () => {
-//if (stopped == 'close') return
-var a = await clearTmp()    
+var a = await clearTmp()
 console.log(chalk.cyanBright(lenguajeGB['smsClearTmp']()))
 }, 180000)
 _quickTest()
@@ -354,7 +329,7 @@ const connectionOptions = {
   printQRInTerminal: true,
   auth: state,
   //logger: pino({ level: 'trace' })
-  browser: ['YunaBot-MD','Edge','1.0.0'] //Nombre de la sesión 
+  browser: ['YUNA-MD','Edge','1.0.0'] //Nombre de la sesión 
 }
 
 global.conn = makeWASocket(connectionOptions)

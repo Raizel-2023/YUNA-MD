@@ -1,4 +1,4 @@
-console.log(': بدء 🚀')
+console.log('𝙄𝙉𝙄𝘾𝙄𝘼𝙉𝘿𝙊 : 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 🚀')
 import { join, dirname } from 'path'
 import { createRequire } from "module";
 import { fileURLToPath } from 'url'
@@ -13,11 +13,11 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('YUNA\nBot\nMD', {
+say('YONA\nBot\nMD', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Por Gata Dios | DIEGO-OFC`, {
+say(`By Yuna| DIEGO-OFC`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
@@ -32,7 +32,7 @@ if (isRunning) return
 isRunning = true
 let args = [join(__dirname, file), ...process.argv.slice(2)]
 
-say('✅ يمكنك الآن مسح رمز الاستجابة السريعة ضوئيا', {
+say('✅ لا يمكنك الآن مسح رمز الاستجابة السريعة ضوئيا ' , {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
@@ -54,7 +54,7 @@ p.send(process.uptime())
 break }})
 p.on('exit', (_, code) => {
 isRunning = false
-console.error('⚠️ خطأ Inesperado: خطأ غير متوقع ', code)
+console.error('⚠️ Error Inesperado : Unexpected Error', code)
   
 p.process.kill()
 isRunning = false
@@ -68,4 +68,4 @@ let opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
 if (!opts['test'])
 if (!rl.listenerCount()) rl.on('line', line => {
 p.emit('message', line.trim())})}
-start('main.js') 
+start('main.js')
